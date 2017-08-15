@@ -59,7 +59,7 @@ public class HealthySleepTest {
                 "7\n" +
                         "9\n" +
                         "2";
-        String expectedResult = "Excess";
+        String expectedResult = "Deficiency";
 
         InputStream testCaseInputStream = new ByteArrayInputStream(firstTestSampleInput.getBytes());
         System.setIn(testCaseInputStream);

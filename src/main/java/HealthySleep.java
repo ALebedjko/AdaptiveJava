@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 public class HealthySleep {
 
     public static void main(String[] args) throws IOException {
-
+        readInputAndPrintCorrespondingSleepQuality();
     }
 
     public static void readInputAndPrintCorrespondingSleepQuality() throws IOException {
