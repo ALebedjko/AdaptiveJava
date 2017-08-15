@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdaptiveJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdaptiveJava_main.iml" group="AdaptiveJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdaptiveJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdaptiveJava_test.iml" group="AdaptiveJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-AdaptiveJava.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-AdaptiveJava.iml" />
+    </modules>
+  </component>
+</project>
