@@ -22,7 +22,7 @@ public class ReversingTest {
     }
 
     @Test
-    public void testSnailSampleInput() throws IOException {
+    public void testFirstSampleInput() throws IOException {
         String firstTestSampleInput = "922";
 
         String expectedResult = "229\n";
